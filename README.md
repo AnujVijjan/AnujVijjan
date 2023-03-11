@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ESG Analytics Platform<br>👯 I’m looking to collaborate on Open Source Project<br>💬 Ask me about Python, Javascript, REST API<br>📫 How to reach me anujvijjan24@gmail.com<br>👨‍💻 All of my projects are available at https://anujvijjan.github.io/Portfolio/<br>📄 Know about my experiences https://anujvijjan.github.io/Portfolio/static/media/cv.0d1971c1595845eb7995.pdf<br>
+🔭 I’m currently working on ESG Analytics Platform<br>👯 I’m looking to collaborate on Open Source Project<br>💬 Ask me about Python, Javascript, REST API<br>📫 How to reach me anujvijjan24@gmail.com<br>👨‍💻 All of my projects are available at [![Portfolio]()](https://anujvijjan.github.io/Portfolio/)<br>📄 Know about my experiences [![Resume]()](https://anujvijjan.github.io/Portfolio/static/media/cv.0d1971c1595845eb7995.pdf)<br>
 
 
 ## 🌐 Socials:
