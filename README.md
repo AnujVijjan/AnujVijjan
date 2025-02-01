@@ -15,7 +15,7 @@
 </p>
 
 ---
-[![Visits](https://visitcount.itsvg.in/api?id=anujvijjan&icon=0&color=0)](https://github.com/AnujVijjan/)
+[![](https://komarev.com/ghpvc/?username=anujvijjan&color=blue)](https://github.com/AnujVijjan/)
 
 
 
