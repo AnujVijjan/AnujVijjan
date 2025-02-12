@@ -12,7 +12,6 @@
 ---
 <p align="center">
   <img src="https://github-readme-stats-anujvijjans-projects.vercel.app/api?username=anujvijjan&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anujvijjan&theme=dark&hide_border=true" width="400">
 </p>
 
 ---
